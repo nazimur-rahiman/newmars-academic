@@ -15,8 +15,13 @@
 
 [[main]]
   name = "Hyderabad Hard Top"
-  url = "/thar-hard-top "
+  url = "/thar-hard-top"
   weight = 30
+
+[[main]]
+  name = "Gallery"
+  url = "/gallery"
+  weight = 40
 
 [[main]]
   name = "Contact"
