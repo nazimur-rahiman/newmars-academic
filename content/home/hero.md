@@ -42,10 +42,11 @@ hero_media = "hardtop_banner.jpg"
   label = "Details..."
   icon_pack = "fas"
   icon = "truck-monster"
-  
+
  [cta_alt]
    url = "https://www.youtube.com/watch?v=sBy7-SmkrQs&feature=emb_title"
    label = "Installation Instructions"
+
 
 # Note. An optional note to show underneath the links.
 [cta_note]
