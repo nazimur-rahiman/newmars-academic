@@ -13,10 +13,10 @@
   url = "/thar-hard-top"
   weight = 20
 
-# [[main]]
-#  name = "Gallery"
-#  url = "/gallery"
-#  weight = 30
+ [[main]]
+  name = "Gallery"
+  url = "/gallery"
+  weight = 30
 
 [[main]]
   name = "Contact"

@@ -1,7 +1,12 @@
----
-# Homepage
-type: widget_page
++++
+# Gallery section using the Blank widget and Gallery element (shortcode).
+# widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = false  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 66  # Order that this section will appear.
 
-# Homepage is headless, other widget pages are not.
-headless: false
----
+title = "Hard Top Gallery"
+subtitle = ""
++++
+
+{{< gallery >}}
